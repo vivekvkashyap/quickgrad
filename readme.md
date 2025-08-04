@@ -1,6 +1,6 @@
 # Quickgrad
 
-![Quickgrad Logo](./quickgrad.png)
+![Quickgrad Logo](./quickgrad_2.png)
 
 **Quickgrad** is a simple autograd engine built from scratch using NumPy. It supports both numbers and tensors, and helps you understand how automatic differentiation works under the hood, just like in PyTorch, but much simpler and easier to follow.
 
