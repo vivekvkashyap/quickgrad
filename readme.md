@@ -100,7 +100,7 @@ for epoch in range(epochs):
 
 ## To Do
 
-- [] Add GPU support
+- [ ] Add GPU support
 - [ ] Add Distributed Data Parallel (DDP) support
 - [ ] Improve internal implementations of `__add__` and `__matmul__`
 - [ ] Add examples for attention models
